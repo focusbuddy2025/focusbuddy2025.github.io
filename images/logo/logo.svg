@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="64px" viewBox="0 0 240 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>logo</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logo" transform="translate(2.000000, 0.000000)" fill-rule="nonzero">
+            <!-- 删除原Jekyll和Serif路径，新增Focus Buddy文本 -->
+            <text id="Focus" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="#2f2f41" x="20" y="45">
+                Focus
+            </text>
+            <text id="Buddy" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="#E5261F" x="125" y="45">
+                Buddy
+            </text>
+        </g>
+    </g>
+</svg>
